@@ -9,5 +9,8 @@
         <module name="taskoop" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Library-APP" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
